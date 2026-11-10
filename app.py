@@ -12,7 +12,6 @@ import streamlit as st
 
 # ─────────────────────────── Datos del estudiante (edítalos) ───────────────────────────
 ESTUDIANTE = "Valeria Isabel Estrugo Pérez"
-CODIGO = "CI / Código universitario"
 MENCION = "Ingeniería de Sistemas"
 ASIGNATURA = "Métodos Numéricos"
 UNIVERSIDAD = "Universidad Mayor de San Andrés · Carrera de Informática"
