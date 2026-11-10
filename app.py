@@ -11,7 +11,7 @@ import plotly.graph_objects as go
 import streamlit as st
 
 # ─────────────────────────── Datos del estudiante (edítalos) ───────────────────────────
-ESTUDIANTE = "Nombre Apellido"
+ESTUDIANTE = "Valeria Isabel Estrugo Pérez"
 CODIGO = "CI / Código universitario"
 MENCION = "Ingeniería de Sistemas"
 ASIGNATURA = "Métodos Numéricos"
