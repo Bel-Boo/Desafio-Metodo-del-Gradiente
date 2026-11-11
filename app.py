@@ -310,7 +310,7 @@ def p_inicio():
         f"""<div class='hero'><h1>Suavizador de presupuesto anual con Gradientes Conjugados Precondicionado</h1>
         <p>Cómo repartir un gasto de 12 meses sin saltos bruscos, resuelto como un sistema simétrico definido positivo Ax = b.</p>
         <span class='chip'>{MENCION}</span><span class='chip'>{ASIGNATURA}</span><span class='chip'>n = 12 variables</span><span class='chip'>tolerancia 10⁻⁶</span>
-        <p style='margin-top:1rem'><b>{ESTUDIANTE}</b> · {CODIGO}<br>{UNIVERSIDAD}</p></div>""",
+        <p style='margin-top:1rem'><b>{ESTUDIANTE}</b><br>{UNIVERSIDAD}</p></div>""",
         unsafe_allow_html=True,
     )
     R = scen_results()
